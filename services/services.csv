@@ -99,3 +99,5 @@ id,agency_name,public_sector,agency_url,service_name,service_url,description,sof
 101,RESINFO/Mathrice/CNRS,State,https://www.resinfo.org,Listes de discussions,https://listes.resinfo.org/wws,Listes de discussions https://listes.resinfo.org/wws/lists,Sympa,142,281,,2021,"MENJS, MENSRI",Tout le monde,SSO PLM Matrice,Manuelle
 102,INSEE,State,https://www.insee.fr,SSP Cloud Datalab,https://datalab.sspcloud.fr,Mise a disposition de puissance de calcule pour la Datacience,Onyxia,233,461,2020,2022,"Agents publics, Étudiants","Agents publics, Étudiants",SSO AgentConnect ou Vérification de l'adresse email,
 103,Huma Num,State,https://www.huma-num.fr/,Mattermost,https://documentation.huma-num.fr/mattermost/,Discussion en ligne,mattermost,,408,,,HumanID,,HumanID,
+104,académie de Rennes,State,https://www.ac-rennes.fr/,RocketChat,https://lechat.toutatice.fr/,Discussion en ligne,Rocketchat,124,200,,,,,,
+105,académie de Rennes,State,https://www.ac-rennes.fr/,Esup-Pod,https://video.toutatice.fr,Diffusion vidéo,Esup-Pod,210,,,,,,,

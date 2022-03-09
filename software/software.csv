@@ -230,3 +230,4 @@ ID,nom,fonction,annees,statut,parent,public,support,similaire-a,wikidata,comptoi
 232,SambaÉdu,Solution de serveur pédagogique libre,2022,R,,,,,Q16675432,253,GPL-3.0-only,,,,,,MIMO,4,
 233,Onyxia,Lanceur de conteneurs orienté Data science. Mise en commun de ressources matérielles (CPU/GPU/RAM),2022,R,,Oui,,"AWS, Google Cloud Platform, Microsoft Azure",Q110492908,461,MIT,Onyxia est déployé par l'INSEE sur https://datalab.sspcloud.fr,,,https://www.dailymotion.com/video/x85y31u?playlist=x767bq,,MIMDEVOPS,0.26.25,
 234,Decidim,Plateforme de participation citoyenne,2022,R,,,,,Q20105575,268,AGPL-3.0,,,,,,MIMO,0.24,
+235,XCP-ng,Plateforme de virtualisation libre,2022,R,,,,,Q110944501,,GPL-2.0-only,,,,,,MIMPROD,8,
